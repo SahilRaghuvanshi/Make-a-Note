@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/barriecito</item>
+        <item>@font/croissant_one</item>
+        <item>@font/emilys_candy</item>
+        <item>@font/great_vibes</item>
+        <item>@font/jim_nightshade</item>
+        <item>@font/kranky</item>
+        <item>@font/limelight</item>
+        <item>@font/megrim</item>
+        <item>@font/metal_mania</item>
+        <item>@font/monsieur_la_doulaise</item>
+        <item>@font/mr_bedfort</item>
+        <item>@font/nosifer</item>
+        <item>@font/satisfy</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>
